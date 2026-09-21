@@ -1,6 +1,6 @@
 # Intro to GNU Radio 4 — GRCon26
 
-Hands-on examples for Josh Morman's introductory GNU Radio 4 workshop:
+Hands-on examples for our introductory GNU Radio 4 workshop:
 run a graph in Studio, build its C++ equivalent, and create a loadable block.
 
 This repository is self-contained. Use an installed GNU Radio 4 development
